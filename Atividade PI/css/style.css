@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+
+p, label{
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input{
+    margin: 0.4rem;
+}
+.limpar{
+    display: inline-flex;
+}
